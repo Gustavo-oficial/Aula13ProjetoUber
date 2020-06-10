@@ -1,0 +1,13 @@
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\bin\Debug\netcoreapp3.1\Aula13ProjetoUber.exe
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\bin\Debug\netcoreapp3.1\Aula13ProjetoUber.deps.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\bin\Debug\netcoreapp3.1\Aula13ProjetoUber.runtimeconfig.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\bin\Debug\netcoreapp3.1\Aula13ProjetoUber.runtimeconfig.dev.json
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\bin\Debug\netcoreapp3.1\Aula13ProjetoUber.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\bin\Debug\netcoreapp3.1\Aula13ProjetoUber.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.csprojAssemblyReference.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.csproj.CoreCompileInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.AssemblyInfoInputs.cache
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.AssemblyInfo.cs
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.dll
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.pdb
+C:\Users\FamilySilvaFelix\Documents\ESTUDOS\SENAI\Aula13ProjetoUber\obj\Debug\netcoreapp3.1\Aula13ProjetoUber.genruntimeconfig.cache
